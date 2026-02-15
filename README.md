@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Coding Enthusiast (especially in AI region) and students from Indonesia.
+A Coding Enthusiast (especially in AI region) and students from Indonesia. I'm a junior-high-schools students, i start to know coding since i was a 2nd grade of primary schools. And basically i have known coding for about 7 years, FYI i drink a lot of coffee.
 
 
 # 💻 Tech Stack:
